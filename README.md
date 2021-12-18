@@ -1,5 +1,5 @@
 # Amazon Clone by Yadhu Krishna M
-    url : https://clone-cbbed.web.app/
+#    url : https://clone-cbbed.web.app/
 
 # Description : 
     This is Amazon clone web application built using React js.
